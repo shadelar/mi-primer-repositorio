@@ -8,5 +8,7 @@
 
 
 Este es el texto del repositorio.....
+
 **texto en negritas**
+
 *texto en italica*
